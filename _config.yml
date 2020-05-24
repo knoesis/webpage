@@ -13,7 +13,7 @@ name                     : &name "Usha Lokala"
 description              : &description "personal description"
 url                      : https://ushagayatri.github.io/webpage # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "ushagayatri.github.io/webpage"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,13 +82,14 @@ analytics:
 author:
   name             : "Usha Lokala"
   avatar           : "PicUsha.jpg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Interdisciplinary researcher in ML/NLP techniques to assist Public
+                      Health policy decisions supported by NDEWS & NIDA"
+  location         : "Ohio, USA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=OsyJIWgAAAAJ&hl"
+  email            :  "usha@knoesis.org"
+  researchgate     :  "https://www.researchgate.net/profile/Usha_Lokala"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,7 +103,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/usha-lokala/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
